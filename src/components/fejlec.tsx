@@ -1,5 +1,8 @@
 export default function Fejlec() {
     return (
-        <h1>Kapcsoló – Állapotkezelés a Reactben</h1>
+        <div className="header">
+            <h1>Kapcsoló – Állapotkezelés a Reactben</h1>        
+        </div>
+
     )
 }

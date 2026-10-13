@@ -10,7 +10,6 @@ function App() {
     <div className="container">
       <Fejlec/>
       <ReactKapcsolo/>
-
       <Lablec/>      
     </div>
 

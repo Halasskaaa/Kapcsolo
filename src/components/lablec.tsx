@@ -1,6 +1,6 @@
 export default function Lablec() {
     return (
-        <div>
+        <div className="footer">
             <p style={{ textAlign: 'center' }}>
                 <b>Az oldalt készítette: </b>
                 <i>Phan Thi Linh Tra 13.E</i>
